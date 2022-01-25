@@ -50,7 +50,7 @@ export const InboxScreen = ({ error }) => {
 
   return (
     <Box p={4} bg="brand.300">
-      <Box as="nav" bg="brand.200" py={6} px={5}>
+      <Box as="nav" bg="red.200" py={6} px={5}>
         <Heading
           as="h1"
           fontSize="lg"

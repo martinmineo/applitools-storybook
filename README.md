@@ -1,4 +1,5 @@
 # How to use Applitools with Storybook
+For more details about the findings on this spike, check [this documentation](https://docs.google.com/document/d/1vikqik36_DWklCojUdigQQMaXl0Kyye-Rul0T2MIlDA/edit?usp=sharing)
 
 ## Getting started
 

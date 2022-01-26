@@ -1,3 +1,35 @@
+# How to use Applitools with Storybook
+
+## Getting started
+
+After cloning the repo, you should run:
+
+#### `cd applitools-storybook`
+#### `npm ci`
+
+Doing this, you will install all the dependencies needed in the project.
+Now everything is set up, let's run the tests using Appplitools
+
+## Running Applitools in a local environment
+
+To run the tests is simple as:
+
+#### `npm run applitools-storybook`
+
+## Running Applitools using Github Actions
+
+You will need the `APPLITOOLS_API_KEY`. You can grab it from the Applitools' admin page, in the API keys section and add it to you r repository secrets.
+
+Finally, create a new commit, push your changes to GitHub, and you should see your workflow in action!
+
+Enjoy!
+
+--
+--
+--
+--
+# Storybook documentation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
